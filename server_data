@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "name": "Andrew ",
+            "password": "12345678",
+            "about": "Aboba",
+            "chats": []
+        },
+        {
+            "name": "Dan",
+            "password": "12345678",
+            "about": "Bebra",
+            "chats": []
+        },
+        {
+            "name": "Test",
+            "password": "test",
+            "about": "",
+            "chats": []
+        }
+    ],
+    "chats": [
+
+    ]
+}
